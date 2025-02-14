@@ -38,7 +38,8 @@ Ejecuta el siguiente comando para iniciar un servidor MySQL en Docker:
   ```bash
   docker ps
   ```
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/175b159f-5871-4b50-b4c4-16df4c4d391b)
+
 
 ###  Acceder a MySQL dentro del contenedor
 - Conectarse al servidor MySQL dentro del contenedor:
